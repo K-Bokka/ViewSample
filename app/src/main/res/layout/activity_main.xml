@@ -39,7 +39,8 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="25dp"
             android:background="#ffffff"
-            android:text="@string/cb_drink" />
+            android:text="@string/cb_drink"
+            android:layout_marginEnd="25dp" />
 
         <CheckBox
             android:id="@+id/cbFood"
@@ -47,7 +48,8 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="25dp"
             android:background="#ffffff"
-            android:text="@string/cb_food" />
+            android:text="@string/cb_food"
+            android:layout_marginEnd="25dp" />
     </LinearLayout>
 
     <Button
